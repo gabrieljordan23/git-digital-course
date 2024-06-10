@@ -6,3 +6,4 @@
 ### novas mudanças
 
 * comando git push
+* comando git pull
