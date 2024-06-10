@@ -4,3 +4,5 @@
 ## teste
 
 ### novas mudanças
+
+* comando git push
